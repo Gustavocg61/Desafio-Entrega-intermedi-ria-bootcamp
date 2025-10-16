@@ -30,8 +30,7 @@ Aplicar as melhores práticas de **versionamento, organização e documentação
 ## 🤝 Colaboração
 
 Durante o desafio, serão realizados:
-- **Forks e Pull Requests** em repositórios públicos;  
-- **Commits** mostrando o histórico de alterações;  
+
 - **Integrações** com o **LinkedIn** e outras plataformas.
 
 ---
